@@ -1,16 +1,43 @@
-## Hi there 👋
+Hi there! 👋
 
-<!--
-**adambex-code/adambex-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about programming, game development, and learning new technologies.
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎮 Aspiring game developer
+
+💻 Exploring Godot Engine, Unity, Defold, and Game Maker Language (GML)
+
+🖥️ Experimenting with Minecraft launchers and modding
+
+🔧 Interested in software development and optimization
+
+🧩 Hobbyist speedcuber, yoyo enthusiast, and balisong flipper
+
+⏳ Also fascinated by mechanical watches
+
+🛠️ Tech Stack
+
+Languages: Python, GDScript
+
+Game Engine: Godot
+
+🌱 Currently Learning
+
+Advanced game development techniques
+
+Web development & interactive UI animations
+
+📫 Connect with Me
+
+Instagram: @adambexx_
+
+🎯 Goals for 2025
+
+🎮 Work on my game project "Brovland"
+
+💡 Expand my game development skills
+
+🌍 Contribute to open-source projects
+
+Thanks for visiting! Feel free to explore my repositories and reach out! 🚀
